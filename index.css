@@ -1,0 +1,26 @@
+h2{
+    color : aqua;
+}
+
+
+#logtag{
+    color : red;
+}
+
+.day6and7{
+    color: green;
+}
+
+a.day6and7{
+    color: brown;
+}
+
+*{
+    background-color: whitesmoke; 
+}
+
+h2,del,ins,.day6and7{
+    color: rebeccapurple;
+    opacity: 70%;
+}
+

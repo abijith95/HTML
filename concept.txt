@@ -1,0 +1,73 @@
+Attributes ----> values inside a tag.
+
+<a></a>
+
+url ---> Universal resource locator 
+--> Absolute  ---> online link
+--> relative ---> folder 
+
+
+Styling attribute::::
+
+
+Sno   Project    Language 
+ 1    codeapp      java
+ 2    calculator  python
+
+
+ Inline Element 
+ Block Element 
+
+
+ div ---> its a containers
+ span ---> 
+
+
+ classes and id 
+
+
+ list 
+   ---> Unordered list
+   ---> Orddered List
+
+
+Forms ::: 
+
+label 
+input
+
+name :
+
+
+CSS: 
+  beauty 
+
+Cascading Styles sheets 
+
+CSS types : 
+    ---> Inline CSS 
+    ---> Internal CSS
+    ---> External CSS
+
+
+h2 
+{
+   color : blue; 
+}
+
+
+Selector 
+   --> Tag 
+   --> id
+   --> class 
+   --> class + tag  
+   --> Universal 
+   --> Grouping selectors
+
+
+
+Colors
+ 1. name
+ 2. hexadecimal
+ 3. rgb
+ 4. hsl
