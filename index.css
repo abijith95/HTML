@@ -15,8 +15,15 @@ a.day6and7{
     color: brown;
 }
 
-*{
-    background-color: whitesmoke; 
+body{
+     background-color: aquamarine;
+    /* background-image: url("images/OIP.webp");
+    background-repeat: no-repeat;
+    background-position: left ;
+    background-attachment: fixed; */ 
+
+    /* shorthand */
+    /* background: url("images/OIP.webp") no-repeat left fixed aquamarine; */
 }
 
 h2,del,ins,.day6and7{
@@ -24,3 +31,9 @@ h2,del,ins,.day6and7{
     opacity: 70%;
 }
 
+img{
+
+    /* shorthand */
+    border: 15px solid black;
+    border-radius: 50%;
+}
