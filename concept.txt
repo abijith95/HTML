@@ -65,9 +65,16 @@ Selector
    --> Grouping selectors
 
 
-
 Colors
  1. name
  2. hexadecimal
  3. rgb
  4. hsl
+
+
+ font family
+ 1. Serif 
+ 2. Sans-Sereif
+ 3.Monospaced
+ 4. Cursive
+ 5. fantasy
