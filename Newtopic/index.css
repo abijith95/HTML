@@ -10,8 +10,8 @@ h1{
 }
 
 p{
-    /* color: red;
-    background-color: aqua;*/
+    color: black;
+    /* background-color: aqua;*/
     /* text-align: justify; 
     /* text-decoration-line: overline;
     text-decoration-color: red ;
@@ -20,7 +20,7 @@ p{
     font-style: oblique;
     font-weight: bolder;
     font-variant: small-caps;
-    font-size:  large;  */
+    font-size:  large; 
 
     /* shorthand */
     font: italic 20px bold monospace;
@@ -33,4 +33,79 @@ a{
     margin-left: 320px;
     text-decoration: none;
     
+}
+
+table, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+td{
+    width: 300px;
+    height: 60px;
+    font-weight: bolder;
+    text-align: center;
+    vertical-align: bottom;
+}
+
+/* tr:hover{
+    background-color: blueviolet;
+    color: aliceblue;
+} */
+
+/* tr:nth-child(even){
+    background-color: blueviolet;
+} */
+
+/* button{
+    margin: 20px;
+    padding:5px;
+    background-color: chocolate;
+}
+
+button:hover{
+    background-color: darkblue;
+    color: antiquewhite;
+} */
+/* 
+.spanstyle{
+    background-color: aqua;
+}*/
+
+
+.lorem{
+    background-color: red;
+    border: 2px solid black;
+    position:sticky;
+    top:0px;
+    width:100px;
+    height: 100px;
+    overflow: auto;
+    z-index: -1;
+    
+}  
+
+.box1{
+    width:100px;
+    height: 100px;
+    background-color: red;
+}
+
+.box2{
+    
+    width:100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.box3{
+   
+    width:100px;
+    height: 100px;
+    background-color: green;
+}
+
+.container{
+    display: flex;
+    justify-content: right;
 }

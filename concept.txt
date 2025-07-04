@@ -78,3 +78,123 @@ Colors
  3.Monospaced
  4. Cursive
  5. fantasy
+
+
+
+ 7% ,  7000 
+       7 / 100 = 0.07 
+       7000 * 0.07 
+
+       Variables
+     const - it cannot be changed once after intialized.
+     let - can be changed
+
+
+     
+   (depreciated)  var - can be changed
+
+
+Conditional Statement
+      if(condition){
+        console.log()
+      }
+      else{
+         // Statement
+      }
+
+Functions:::::
+---> Method Calling
+---> Method functioning
+
+Dynamic Function:::::
+
+Welcome(name,age)
+
+Template literals - `a value is `
+
+A return keyword is used to finish the execution of the function and provided a value to the method call 
+
+
+// Es6 
+// Arrow function 
+
+const funcname = () => {
+   
+}
+
+
+Arrays:::::::::::::::::
+      Storing similar kind of datatypes in large number
+      [1,2,3,4,5,5,6,7,78,] -- Number
+      ['a','b','fg'] -- String 
+
+["John", "Jane", "Jack", "Jill"]
+.slice(0,2)
+0 -----> 2
+include   exclude
+
+
+// Objects:::::::
+
+Human ---> name = 'Abijith'
+           age = 22
+           networth = 2,00,00,000
+
+
+// Accessing an Object
+  1. dot notation --> Human.name
+  2. bracket notation --> Human['name']
+
+
+
+  // FOR LOOP  || FOR EACH LOOP  
+  1. initializatioin.
+  2. Condition
+  3. Operation
+
+// Object 
+
+{
+  key : Value,
+}
+
+const person = {
+   name : "Abijith",
+   age  : 22,
+}
+
+person.grade = 'A'
+
+
+// Letterfrequency 
+
+arrow  function ==> blahblah
+
+b : 2
+l : 2
+a : 2
+h : 2
+
+freq = {
+  'b' : 3,
+  'l' : 2,
+  'a' : 2,
+  'h' : 2
+}
+
+word = "blahblahb"
+
+for(letter of word){
+   // freq = {}
+
+   if(letter in freq){
+       freq.letter = freq.letter + 1
+   }
+   else{
+      freq.letter = 1;
+   }
+}
+
+           
+ 
+  
