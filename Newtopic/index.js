@@ -191,3 +191,56 @@
 // const ans = letterfreq(word)
 // console.log(ans)
 
+
+// const ans = letterfreq(word)
+// console.log(ans)
+
+
+
+// Older way
+// arr.map(function(number){
+//     console.log(number)
+// })
+
+// // New way
+// const result = arr.map((number) => number * 3)
+
+// console.log(result)
+
+
+// const ans = (arr) => {
+//   for(const number of arr){
+//       if(number > 4){
+//         console.log(number)
+//       }
+//   }
+// }
+
+// array format
+// const ans = (arr) => arr.filter((number)=> number > 4)
+// console.log(ans(arr))
+
+// REDUCE function
+
+// const sum = (rollno) => {
+//     let sum = 0
+//     for(number of rollno){
+//         sum = sum + number
+//     }
+
+//     return sum
+// }
+
+// const arr = [1,2,3,4,5]
+
+// const result = arr.reduce((sum,number)=> sum * number)
+
+// console.log(result)
+
+// let heading = document.getElementById('heading')
+// console.log("Before change :" +heading.innerText) // Hello, world!
+// heading.innerText = 'Hello, Iam Abijith'
+// console.log("After change :"+heading.innerText) // Hello, Iam Abijith
+
+// heading.innerHTML = '<p>Hello, Iam Abijith</p>'
+// heading.innerHTML = '<p>Hello, World</p>'
